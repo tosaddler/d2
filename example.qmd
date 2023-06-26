@@ -1,0 +1,11 @@
+---
+title: "D2 Example"
+filters:
+  - d2
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
